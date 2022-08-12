@@ -6,15 +6,13 @@ int number2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter the third number");
 int number3 = Convert.ToInt32(Console.ReadLine());
 int max = number;
-if (number > number2)
+if (number2 > max)
 {
-    max = number;
+    max = number2;
 }
 else
 {
-    max = number2;
-    if (number2 > number3);
-    else
+    while (number3 > max)
     {
         max = number3;
     }
