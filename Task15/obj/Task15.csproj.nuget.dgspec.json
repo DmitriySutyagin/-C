@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Димон\\Desktop\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task13\\Task13.csproj": {}
+    "C:\\Users\\Димон\\Desktop\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task15\\Task15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Димон\\Desktop\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task13\\Task13.csproj": {
+    "C:\\Users\\Димон\\Desktop\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task15\\Task15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Димон\\Desktop\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task13\\Task13.csproj",
-        "projectName": "Task13",
-        "projectPath": "C:\\Users\\Димон\\Desktop\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task13\\Task13.csproj",
+        "projectUniqueName": "C:\\Users\\Димон\\Desktop\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task15\\Task15.csproj",
+        "projectName": "Task15",
+        "projectPath": "C:\\Users\\Димон\\Desktop\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task15\\Task15.csproj",
         "packagesPath": "C:\\Users\\Димон\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Димон\\Desktop\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task13\\obj\\",
+        "outputPath": "C:\\Users\\Димон\\Desktop\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task15\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Димон\\AppData\\Roaming\\NuGet\\NuGet.Config"
