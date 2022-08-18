@@ -1,12 +1,10 @@
 ﻿Console.Clear();
 Console.WriteLine("Enter number");
-string? number = Console.ReadLine();
-Console.WriteLine($"Your number : {number}");
-int thrid = int.Parse(number [2].ToString());
+string? a = Console.ReadLine();
+Console.WriteLine($"Your number : {a}");
+int thrid = int.Parse(a [2].ToString());
 Console.WriteLine($"{thrid}");
-int n = number.Length;
-int i = 3;
-if (n < i )
-{
-    Console.WriteLine("No third digit");
-}
+int n = int.Parse(a.Length.ToString());
+
+if (n == 2)   Console.WriteLine("No thrid digit");
+

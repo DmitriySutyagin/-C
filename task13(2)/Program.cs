@@ -1,0 +1,10 @@
+﻿Console.Clear();
+Console.WriteLine("Enter number from 99 to 10000");
+int N = Convert.ToInt32(Console.ReadLine());
+int a = 9;
+int b = 99;
+int c = 999;
+int d = 10000;
+if (N > a && N <= b) Console.WriteLine("No thrid digit");
+if (N > b && N < c) Console.WriteLine(N % 10); 
+if (N > c && N < d) Console.WriteLine(N % 100 / 10);
