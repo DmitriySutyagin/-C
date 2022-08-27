@@ -18,6 +18,7 @@ int arr (string N)
     
     return sum;
 }
+Console.WriteLine("Enter number :")
 string? number = Console.ReadLine();
 int sum = arr(number);
 Console.WriteLine(sum);
