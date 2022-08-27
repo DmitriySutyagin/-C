@@ -10,7 +10,8 @@ Console.Clear();
 int array(int B, int A)
 {
     int mul = 1;
-    for (int i = 0; i < B;i++)    {
+    for (int i = 0; i < B;i++)   
+    {
         mul = mul * A;    
     }
     return mul;
