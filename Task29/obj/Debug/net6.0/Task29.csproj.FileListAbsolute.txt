@@ -1,0 +1,15 @@
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\obj\Debug\net6.0\Task29.csproj.AssemblyReference.cache
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\obj\Debug\net6.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\obj\Debug\net6.0\Task29.AssemblyInfoInputs.cache
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\obj\Debug\net6.0\Task29.AssemblyInfo.cs
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\obj\Debug\net6.0\Task29.csproj.CoreCompileInputs.cache
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\bin\Debug\net6.0\Task29.exe
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\bin\Debug\net6.0\Task29.deps.json
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\bin\Debug\net6.0\Task29.runtimeconfig.json
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\bin\Debug\net6.0\Task29.dll
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\bin\Debug\net6.0\Task29.pdb
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\obj\Debug\net6.0\Task29.dll
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\obj\Debug\net6.0\refint\Task29.dll
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\obj\Debug\net6.0\Task29.pdb
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\obj\Debug\net6.0\Task29.genruntimeconfig.cache
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task29\obj\Debug\net6.0\ref\Task29.dll
