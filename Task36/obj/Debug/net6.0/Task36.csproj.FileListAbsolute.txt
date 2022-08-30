@@ -1,0 +1,15 @@
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\obj\Debug\net6.0\Task36.csproj.AssemblyReference.cache
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\obj\Debug\net6.0\Task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\obj\Debug\net6.0\Task36.AssemblyInfoInputs.cache
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\obj\Debug\net6.0\Task36.AssemblyInfo.cs
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\obj\Debug\net6.0\Task36.csproj.CoreCompileInputs.cache
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\bin\Debug\net6.0\Task36.exe
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\bin\Debug\net6.0\Task36.deps.json
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\bin\Debug\net6.0\Task36.runtimeconfig.json
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\bin\Debug\net6.0\Task36.dll
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\bin\Debug\net6.0\Task36.pdb
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\obj\Debug\net6.0\Task36.dll
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\obj\Debug\net6.0\refint\Task36.dll
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\obj\Debug\net6.0\Task36.pdb
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\obj\Debug\net6.0\Task36.genruntimeconfig.cache
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\Task36\obj\Debug\net6.0\ref\Task36.dll
