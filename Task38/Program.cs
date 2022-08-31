@@ -19,15 +19,8 @@ double max = array[0];
 for(int i = 0;i < array.Length;i++)
 {
     if(max < array[i]) max = array[i];
-    Console.WriteLine(max);
-    
-}
-for(int i = 0;i < array.Length;i++)
-{
     if (min > array[i]) min = array[i];
-    Console.WriteLine(min);
 }
 result = max - min;
-
 Console.WriteLine($"Разница min and max {result}");
 Console.WriteLine('[' + string.Join(", ", array) + ']');
