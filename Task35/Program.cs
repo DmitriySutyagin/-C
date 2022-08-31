@@ -9,13 +9,17 @@ int[] FillArray(int size, int min, int max)
     }
     return arr;
 }
-
+int count = 0;
 int[] array = FillArray(123,0, 100);
-int a = 10;
-int b = 99;
-for(int i = a;i <= b;i++)
+for(int i = 0;i < array.Length;i++)
 {
-    Console.Write('[' + string.Join(", ", array[i]) + ']');
+    if(array[i] > 9 && array[i] < 100)
+    {
+        count++;
+    }
+    
 }
 Console.WriteLine();
+Console.WriteLine(count);
+
 Console.WriteLine('[' + string.Join(", ", array) + ']');
