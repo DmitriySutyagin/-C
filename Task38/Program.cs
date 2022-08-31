@@ -10,15 +10,24 @@ double[] FillArray(int size)
     }
     return arr;
 }
-
 Console.WriteLine("Введите размер число массива :");
 int size = Convert.ToInt32(Console.ReadLine());
-double sum = 0;
+double result = 0;
 double[] array = FillArray(size);
+double min = array[0];
+double max = array[0];
 for(int i = 0;i < array.Length;i++)
 {
-    sum = array[0] - array[array.Length - 1];
-    sum = Math.Abs(sum);
+    if(max < array[i]) max = array[i];
+    Console.WriteLine(max);
+    
 }
-Console.WriteLine($"Разница чисел {sum}");
+for(int i = 0;i < array.Length;i++)
+{
+    if (min > array[i]) min = array[i];
+    Console.WriteLine(min);
+}
+result = max - min;
+
+Console.WriteLine($"Разница min and max {result}");
 Console.WriteLine('[' + string.Join(", ", array) + ']');
