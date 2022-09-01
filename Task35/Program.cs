@@ -13,13 +13,8 @@ int count = 0;
 int[] array = FillArray(123,0, 100);
 for(int i = 0;i < array.Length;i++)
 {
-    if(array[i] > 9 && array[i] < 100)
-    {
-        count++;
-    }
-    
+    if(array[i] > 9 && array[i] < 100)  count++;
 }
 Console.WriteLine();
 Console.WriteLine(count);
-
 Console.WriteLine('[' + string.Join(", ", array) + ']');
