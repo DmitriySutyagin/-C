@@ -14,4 +14,4 @@ double b2 = Convert.ToDouble(Console.ReadLine());
 double x = (b1 - b2) / (k2 - k1);
 double y = k2 * x +b2 ;
 if(k1 == k2)    Console.WriteLine("The lines are parallel");
-Console.WriteLine($"Координаты точки пересечения двух прямы ({x};{y})");
+else  Console.WriteLine($"Coordinate of the point of intersection of the two lines: ({x};{y})");
