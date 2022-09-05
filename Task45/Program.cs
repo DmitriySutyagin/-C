@@ -8,7 +8,7 @@ int[] point(int size)
         arr[i] = rand.Next(1,10);
     }  
     return arr;
-}
+} 
 void PrintArray(int[] arr)
 {
      for (int i = 0; i < arr.Length; i++)
