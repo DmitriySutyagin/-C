@@ -6,8 +6,10 @@
 // 8 4 2 4
 // 17 -> такого числа в массиве нет
 Console.Clear();
-int n = 10;
-int m = 5;
+Console.WriteLine("Enter the number of rows of the two-dimensional array");
+int n = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the number of columns of the two-dimensional array");
+int m = Convert.ToInt32(Console.ReadLine());
 int[,] point = new int[n, m];
 for (int i = 0; i < n; i++)
 {
@@ -24,6 +26,6 @@ int k = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter column index");
 int l = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine();
-if ((k-1) >= n || (k-1) <= -1) Console.WriteLine("No number");
-else if ((l-1) >= m || (l-1) <= -1) Console.WriteLine("No number");
+if ((k-1) >= n || (k-1) <= -1) Console.WriteLine("There is no such number in the array");
+else if ((l-1) >= m || (l-1) <= -1) Console.WriteLine("There is no such number in the array");
 else Console.WriteLine($"Your number: {point[k-1, l-1]}");
