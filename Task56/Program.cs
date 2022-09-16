@@ -20,8 +20,10 @@ for (int i = 0; i < point.GetLength(0); i++)
     }
     Console.WriteLine();
 }
-int[] SumStrPoint(int[,] point)
+void SumStrPoint(int[,] point)
 {
+    int MaxSum = 0;
+    int count = 0;
     int[] SumString = new int[point.GetLength(1)];
     for (int i = 0; i < point.GetLength(0); i++)
     {
@@ -31,30 +33,14 @@ int[] SumStrPoint(int[,] point)
             sum = sum + point[i, j];
         }
         Console.Write(sum + " ");
-        
+        if(MaxSum < sum)
+        {
+            MaxSum = sum;
+            count = i;
+        }
     }
-
-    return SumString;
+    Console.WriteLine();
+    Console.WriteLine();
+    Console.WriteLine($"Row with the highest value: {count + 1}");
 }
 SumStrPoint(point);
-Console.WriteLine();
-// void SumStringSort(int []SumString)
-// {
-//     for (int i = 0; i < SumString.Length; i++)
-//     {
-//         for (int j = i + 1; j < SumString.Length; j++)
-//         {
-
-//             if (SumString[i] < SumString[j])
-//             {
-//                 int temp = SumString[j];
-//                 SumString[j] = j;
-//                 j = temp;
-//                 Console.WriteLine(j);
-
-//             }
-//         }
-//     }
-// }
-// SumStringSort(SumString);
-
