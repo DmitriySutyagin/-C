@@ -1,0 +1,15 @@
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\obj\Debug\net6.0\Task45(dop).csproj.AssemblyReference.cache
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\obj\Debug\net6.0\Task45(dop).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\obj\Debug\net6.0\Task45(dop).AssemblyInfoInputs.cache
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\obj\Debug\net6.0\Task45(dop).AssemblyInfo.cs
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\obj\Debug\net6.0\Task45(dop).csproj.CoreCompileInputs.cache
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\bin\Debug\net6.0\Task45(dop).exe
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\bin\Debug\net6.0\Task45(dop).deps.json
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\bin\Debug\net6.0\Task45(dop).runtimeconfig.json
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\bin\Debug\net6.0\Task45(dop).dll
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\bin\Debug\net6.0\Task45(dop).pdb
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\obj\Debug\net6.0\Task45(dop).dll
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\obj\Debug\net6.0\refint\Task45(dop).dll
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\obj\Debug\net6.0\Task45(dop).pdb
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\obj\Debug\net6.0\Task45(dop).genruntimeconfig.cache
+C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task45(dop)\obj\Debug\net6.0\ref\Task45(dop).dll
