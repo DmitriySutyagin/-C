@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Димон\\.nuget\\packages\\": {}
+    "C:\\Users\\Dmitrii Sutyagin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Димон\\Desktop\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task56\\Task56.csproj",
+      "projectUniqueName": "C:\\Users\\Dmitrii Sutyagin\\Desktop\\Новая папка\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task56\\Task56.csproj",
       "projectName": "Task56",
-      "projectPath": "C:\\Users\\Димон\\Desktop\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task56\\Task56.csproj",
-      "packagesPath": "C:\\Users\\Димон\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Димон\\Desktop\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task56\\obj\\",
+      "projectPath": "C:\\Users\\Dmitrii Sutyagin\\Desktop\\Новая папка\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task56\\Task56.csproj",
+      "packagesPath": "C:\\Users\\Dmitrii Sutyagin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dmitrii Sutyagin\\Desktop\\Новая папка\\Mytraining\\Introduction to programming\\С#\\First seminar task\\Task56\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Димон\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Dmitrii Sutyagin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

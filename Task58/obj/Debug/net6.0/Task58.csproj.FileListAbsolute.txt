@@ -13,3 +13,18 @@ C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First sem
 C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task58\obj\Debug\net6.0\Task58.pdb
 C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task58\obj\Debug\net6.0\Task58.genruntimeconfig.cache
 C:\Users\Димон\Desktop\Mytraining\Introduction to programming\С#\First seminar task\Task58\obj\Debug\net6.0\ref\Task58.dll
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\bin\Debug\net6.0\Task58.exe
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\bin\Debug\net6.0\Task58.deps.json
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\bin\Debug\net6.0\Task58.runtimeconfig.json
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\bin\Debug\net6.0\Task58.dll
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\bin\Debug\net6.0\Task58.pdb
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\obj\Debug\net6.0\Task58.csproj.AssemblyReference.cache
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\obj\Debug\net6.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\obj\Debug\net6.0\Task58.AssemblyInfoInputs.cache
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\obj\Debug\net6.0\Task58.AssemblyInfo.cs
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\obj\Debug\net6.0\Task58.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\obj\Debug\net6.0\Task58.dll
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\obj\Debug\net6.0\refint\Task58.dll
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\obj\Debug\net6.0\Task58.pdb
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\obj\Debug\net6.0\Task58.genruntimeconfig.cache
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task58\obj\Debug\net6.0\ref\Task58.dll

@@ -1,0 +1,15 @@
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\bin\Debug\net6.0\Task64.exe
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\bin\Debug\net6.0\Task64.deps.json
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\bin\Debug\net6.0\Task64.runtimeconfig.json
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\bin\Debug\net6.0\Task64.dll
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\bin\Debug\net6.0\Task64.pdb
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\obj\Debug\net6.0\Task64.csproj.AssemblyReference.cache
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\obj\Debug\net6.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\obj\Debug\net6.0\Task64.AssemblyInfoInputs.cache
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\obj\Debug\net6.0\Task64.AssemblyInfo.cs
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\obj\Debug\net6.0\Task64.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\obj\Debug\net6.0\Task64.dll
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\obj\Debug\net6.0\refint\Task64.dll
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\obj\Debug\net6.0\Task64.pdb
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\obj\Debug\net6.0\Task64.genruntimeconfig.cache
+C:\Users\Dmitrii Sutyagin\Desktop\Новая папка\Mytraining\Introduction to programming\С#\First seminar task\Task64\obj\Debug\net6.0\ref\Task64.dll

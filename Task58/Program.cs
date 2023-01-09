@@ -37,7 +37,7 @@ void MulMatrix(int[,] SecondMatrix, int[,] FirstMatrix)
 {
     int Rec = 0;
     int[,] MultiMatrix = new int[SecondMatrix.GetLength(0), SecondMatrix.GetLength(1)];
-    // for (int k = 0; k < FirstMatrix.GetLength(0); k++)
+    for (int k = 0; k < FirstMatrix.GetLength(0); k++)
     {
         for (int q = 0; q < SecondMatrix.GetLength(1); q++)
         {
