@@ -7,5 +7,5 @@ int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter the number N");
 int m = Convert.ToInt32(Console.ReadLine());
 int sum = 0;
-for (int i = n; i < m + 1; i++)   sum = sum + i;  Console.WriteLine(sum);
+for (int i = n; i < m + 1; i++)   sum = sum + i;   Console.WriteLine(sum);
 
