@@ -4,5 +4,5 @@
 Console.Clear();
 Console.WriteLine("Enter the number N");
 int n = Convert.ToInt32(Console.ReadLine());
-for (int i = n; i > 0; i--)    Console.Write(i + " ");
+for (int i = n; i > 0; i--)   Console.Write(i + " ");
     
